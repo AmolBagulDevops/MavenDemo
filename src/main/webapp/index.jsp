@@ -32,11 +32,15 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+<<<<<<< HEAD
 
             <a class="navbar-brand" href="#">AMOL GIT PROJECT</a>
 
 
 
+=======
+            <a class="navbar-brand" href="#">AISH GIT PROJ</a>
+>>>>>>> 48d5990e366b404a266159660b2ea9e94e2d2d36
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
