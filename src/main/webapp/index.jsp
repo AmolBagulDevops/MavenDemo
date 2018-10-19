@@ -33,7 +33,7 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <a class="navbar-brand" href="#">GIT PROJECT</a>
+            <a class="navbar-brand" href="#">MY GIT PROJECT</a>
 
 	</div>
         <div class="navbar-collapse collapse">
